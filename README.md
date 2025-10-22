@@ -1,104 +1,125 @@
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/) [![MIT License](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT) [![GitHub issues](https://img.shields.io/github/issues/[tu-usuario]/autocodelab.svg)](https://github.com/[tu-usuario]/autocodelab/issues)
 
-# Autocode Lab: Laboratorio Personal para Dominar Python, Automatización e IA
+<div align="center">
 
-**Bienvenido a Autocode Lab**, un laboratorio digital dedicado a documentar mi trayectoria de aprendizaje desde principiante en programación hasta ingeniero de automatización con integración de inteligencia artificial. Este espacio transforma procesos repetitivos en flujos inteligentes, mediante experimentación con código interactivo, APIs de vanguardia y reflexiones estructuradas.
+<p>
+  <a href="#inicio-rapido"><img src="https://img.shields.io/badge/Comenzar-Inicio%20Rápido-brightgreen?style=for-the-badge" alt="Comenzar" /></a>
+  <a href="#mapa-del-curso"><img src="https://img.shields.io/badge/Mapa%20del%20Curso-Explorar-blue?style=for-the-badge" alt="Mapa del Curso"/></a>
+  <a href="https://github.com/LuisAdonais/AutocodeLab/pulls"><img src="https://img.shields.io/badge/Contribuir-PRs-purple?style=for-the-badge" alt="PRs"/></a>
+</p>
 
-**Visión General**: De cero a experto en 5 fases progresivas, este proyecto es open-source y colaborativo, diseñado para inspirar y capacitar a profesionales en ascenso.
+# 🎓 Autocode Lab — Mi Ruta de Aprendizaje  
+### Fase 1: Fundamentos + Automatización con Python  
 
-*Última Actualización: 21 de octubre de 2025*
-
----
-
-## 🔬 Visión del Laboratorio
-
-Autocode Lab representa un taller experimental que integra teoría, práctica y análisis reflexivo para desarrollar competencias en Python, automatización e IA. Partiendo de cero conocimiento previo, captura mi evolución desde scripts fundamentales hasta sistemas predictivos con APIs éticas y seguras. Compartido abiertamente, invita a contribuciones que potencien el aprendizaje colectivo.
-
-**Misión Principal**: Democratizar la automatización avanzada mediante herramientas IA accesibles, con énfasis en impacto profesional medible y sostenible.
-
-Para detalles completos de la ruta de aprendizaje, consulte [ROADMAP.md](ROADMAP.md).
+**Aprende conmigo paso a paso:** notebooks interactivos, prácticas guiadas, proyectos sencillos y mucha curiosidad.  
+<img src="docs/demo.gif" alt="Demo" width="720" style="border-radius:12px; box-shadow:0 8px 24px rgba(0,0,0,0.15);" />
 
 ---
 
-## 🚀 Instrucciones para Participar
+</div>
 
-Inicie su experiencia en Autocode Lab con estos pasos secuenciales:
-
-1. **Clonar el Repositorio**:
-   ```
-   git clone https://github.com/[tu-usuario]/autocodelab.git
-   cd autocodelab
-   ```
-
-2. **Ejecución en Navegador (Sin Instalación)**: Abra notebooks vía JupyterLite para interacción inmediata.
-   - Ejemplo Inicial: [Notebook Fase 1](fase1-python-basico.ipynb) – Explore scripts con APIs básicas.
-
-3. **Entorno Local Avanzado** (Recomendado para Desarrollo):
-   ```
-   pip install jupyter requests langchain openai python-dotenv
-   jupyter notebook
-   ```
-
-4. **Incorporación de IA y APIs**: Utilice prompts integrados en notebooks para retroalimentación:
-   ```
-   "Evalúe este script con OpenAI API: [código]. Proponga optimizaciones para automatización escalable."
-   ```
-   (Gestione claves API de forma segura con `dotenv`).
-
-5. **Contribuir**: Proponga mejoras vía pull requests para enriquecer hitos compartidos.
+<div align="center">
+<p>
+  <a href="#visita-rapida" style="text-decoration:none;"><strong>🔎 Visita Rápida</strong></a> &nbsp; • &nbsp;
+  <a href="#rutas-de-aprendizaje" style="text-decoration:none;"><strong>🗺️ Rutas</strong></a> &nbsp; • &nbsp;
+  <a href="#progreso-actual" style="text-decoration:none;"><strong>📋 Progreso</strong></a>
+</p>
+</div>
 
 ---
 
-## ✨ Características Distintivas
+## 🎯 Sobre este proyecto
 
-- **Documentación Reflexiva**: Reflexiones personales por fase, con análisis de errores y lecciones cuantificables (e.g., ROI en automatizaciones: hasta 50% de eficiencia).
-- **Interactividad Avanzada**: Notebooks con salidas visuales, checklists dinámicos y agentes IA vía LangChain para mentoría simulada.
-- **Enfoque Híbrido**: Automatizaciones con IA y APIs (e.g., RAG en Hugging Face, serverless en AWS Lambda), escalables a entornos profesionales.
-- **Accesibilidad Integral**: Contenido en español, rutas flexibles (web/local) y protocolos éticos/ciberseguridad en todas las integraciones.
-- **Evolución Dinámica**: Actualizaciones semanales rastreables, con integración CI/CD para despliegues automáticos.
+**Autocode Lab** nació como mi espacio personal para aprender **Python y automatización con inteligencia artificial**, desde cero y con propósito.  
+Aquí documento mi progreso, errores, descubrimientos y aprendizajes reales, compartiendo cada paso de mi proceso.  
 
----
+> “No enseño desde la perfección, sino desde la práctica y la experiencia de aprender haciendo.”
 
-## 📋 Checklist de Progreso Actual
-
-| Elemento | Estado | Notas |
-|----------|--------|-------|
-| Fase 1: Python Básico (Notebook con API) | ✅ Completado | Script inicial ejecutado. |
-| Fase 2: Python Intermedio (APIs REST) | ⏳ En Progreso | Funciones optimizadas pendientes. |
-| Fase 3: Automatización Avanzada (LangChain) | ⏳ Pendiente | Pruebas con Hugging Face. |
-| Fase 4: Proyectos Reales (Agentes IA) | ⏳ Pendiente | Despliegue serverless. |
-| Fase 5: Preparación Laboral (Certificaciones) | ⏳ Pendiente | Portafolio con testing API. |
-| Compartir Hitos en Redes | ⏳ Pendiente | Feedback comunitario. |
-
-[Checklist Detallada en Notion](https://www.notion.so/[tu-página-principal]?pvs=21)
+Si estás comenzando y querés aprender conmigo, este repositorio puede servirte como **guía práctica** para avanzar de forma ordenada y sin abrumarte.
 
 ---
 
-## 🤝 Colaboración y Contribuciones
+## 🧭 Qué encontrarás aquí
 
-Autocode Lab prospera mediante aportes colectivos. Para contribuir:
+- 📘 **Lecciones cortas y simples** en notebooks interactivos (Jupyter / Colab / JupyterLite).  
+- 💡 **Mini proyectos** para practicar lo aprendido.  
+- 🧩 **Retos personales** y ejercicios con soluciones explicadas.  
+- 📂 **Organización por fases**, desde lo más básico hasta la automatización real.  
+- 🤝 **Espacio abierto a colaboraciones**, correcciones o nuevas ideas.
 
-1. Forkee el repositorio y cree una rama: `git checkout -b feature/su-contribucion`.
-2. Realice commits claros y envíe un pull request con descripción detallada.
-3. Consulte [CONTRIBUTING.md](CONTRIBUTING.md) para guías específicas.
+---
 
-Discuta ideas en [Issues](https://github.com/[tu-usuario]/autocodelab/issues).
+<a name="rutas-de-aprendizaje"></a>
+## 🗺️ Mi Ruta de Aprendizaje
+
+| Nivel | Fase | Descripción |
+|:------|:------|:-------------|
+| 🐍 | **Fase 1 — Fundamentos de Python** | Aprendo la base: sintaxis, variables, funciones, lógica y práctica diaria. |
+| ⚙️ | **Fase 2 — Python Intermedio** | Empiezo a crear mis propios módulos, estructuras y pequeños programas útiles. |
+| 🤖 | **Fase 3 — Automatización** | Creo scripts que ahorran tiempo, manejo archivos y uso APIs reales. |
+| 🧠 | **Fase 4 — Integración con IA** | Aplico lo aprendido con herramientas de IA para automatizar tareas complejas. |
+| 🚀 | **Fase 5 — Proyecto Final** | Desarrollaré un proyecto completo y lo compartiré en GitHub. |
+
+---
+
+<a name="visita-rapida"></a>
+## 🔎 Visita rápida
+
+- 👉 Empezá por el módulo [**Inicio Rápido**](#inicio-rapido).  
+- 📘 Explorá el contenido por fases desde el [Mapa del Curso](#rutas-de-aprendizaje).  
+- 💬 Si algo te ayuda, o encontrás un error, podés abrir un issue o dejar tu aporte.  
+- 💡 Todo el material está pensado para **aprender practicando, sin instalaciones complicadas.**
+
+---
+
+<a name="inicio-rapido"></a>
+## 🚀 Instrucciones para Participar: Tu Manual Paso a Paso
+
+## 📋 Progreso Actual
+
+Cada carpeta representa una fase del aprendizaje. Seguí tu avance y el mío desde [ROADMAP.md](ROADMAP.md).
+
+| Fase                   | Estado           | Última actualización |
+| :--------------------- | :--------------- | :------------------- |
+| Fase 1: Fundamentos    | ✅ En progreso    | Octubre 2025         |
+| Fase 2: Intermedio     | ⏳ En preparación | —                    |
+| Fase 3: Automatización | 🔒 Próximamente  | —                    |
+
+---
+
+## 💬 Filosofía de aprendizaje
+
+> Aprender a programar no es solo escribir código, sino **entender problemas y crear soluciones reales**.
+> Este repositorio refleja un proceso genuino: ensayo, error, investigación y mejora constante.
+
+---
+
+## ✨ Si querés unirte
+
+* Descargá el contenido y replicá ejercicios.
+* Abrí pull requests o issues si descubrís mejoras.
+* Este proyecto es **abierto**: el conocimiento crece cuando se comparte.
 
 ---
 
 ## 📄 Licencia y Contacto
 
-- **Licencia**: [MIT](LICENSE) – Permite uso, modificación y distribución con atribución.
-- **Contacto**: [Su Nombre/Usuario] (@[su-handle] en X). Inicie discusiones vía issues para colaboraciones.
-- **Recursos Adicionales**:
-  - [Documentación Python en Español](https://docs.python.org/es/3/)
-  - [Portada en Notion](https://www.notion.so/[su-página])
-  - [Demo en GitHub Pages](https://[tu-usuario].github.io/autocodelab) (Próximamente)
+* **Licencia:** [MIT](LICENSE)
+* **Autor:** [Luis Adonais](https://github.com/LuisAdonais)
+* **Contacto:** [@luisadonais](https://x.com/luisadonais)
+* **Recursos útiles:**
 
-Colabore en este laboratorio para avanzar colectivamente hacia la excelencia en ingeniería de automatización.
+  * [Documentación Python en Español](https://docs.python.org/es/3/)
+  * [Guía Jupyter Notebook](https://jupyter.org/)
+  * [Demo en GitHub Pages (Próximamente)](https://luisadonais.github.io/autocodelab)
 
 ---
 
-*Versión 1.1 – Optimizada para Profesionalismo*
+<div align="center">
+
+💡 *“Automatiza tu conocimiento, no solo tus tareas.”*
+**Autocode Lab** — Aprendiendo en público, un paso a la vez.
+
+</div>
 ```
+
 
