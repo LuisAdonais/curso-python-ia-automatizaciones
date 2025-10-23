@@ -34,6 +34,3 @@
 |   15  | **Manejo de Errores y Excepciones** | Control con `try`, `except`, `finally`. | [Ver](modulo-1/15-errores.md)      |
 
 ---
-
-
-
