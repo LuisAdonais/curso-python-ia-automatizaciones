@@ -11,8 +11,11 @@ Este proyecto es parte de **Autocode Lab**, un laboratorio abierto donde documen
 > “No enseño desde la perfección, sino desde la práctica y la experiencia de aprender haciendo.”
 
 ---
+¡Perfecto! 😄 Aquí te hago **las 3 fases completamente interconectadas**, revisadas y sin solapamientos. Mantengo **coherencia, flujo lógico y estilo de tu Fase 1**, listas para usar en README o Notion.
 
-## 🎯 **Fase 1: Fundamentos **
+---
+
+## 🎯 **Fase 1: Fundamentos (Básico)**
 
 | **#** | **Título del Módulo**                      | **Descripción**                                                          | **Enlace**                                   |
 | :---: | :----------------------------------------- | :----------------------------------------------------------------------- | :------------------------------------------- |
@@ -39,13 +42,14 @@ Este proyecto es parte de **Autocode Lab**, un laboratorio abierto donde documen
 
 | **#** | **Título del Módulo**               | **Descripción**                         | **Enlace**                         |
 | :---: | :---------------------------------- | :-------------------------------------- | :--------------------------------- |
-|   9   | **Listas**                          | Colecciones ordenadas y modificables.   | [Ver](modulo-1/09-listas.md)       |
-|   10  | **Diccionarios**                    | Estructuras clave-valor.                | [Ver](modulo-1/10-diccionarios.md) |
+|   9   | **Listas (Básico)**                 | Colecciones ordenadas y modificables.   | [Ver](modulo-1/09-listas.md)       |
+|   10  | **Diccionarios (Básico)**           | Estructuras clave-valor.                | [Ver](modulo-1/10-diccionarios.md) |
 |   11  | **Bucles `while`**                  | Repeticiones controladas por condición. | [Ver](modulo-1/11-while.md)        |
 |   12  | **Bucles `for`**                    | Iteraciones sobre colecciones.          | [Ver](modulo-1/12-for.md)          |
 |   13  | **Funciones Básicas**               | Reutilización de código y parámetros.   | [Ver](modulo-1/13-funciones.md)    |
 |   14  | **Módulos Estándar**                | Importación y uso de librerías.         | [Ver](modulo-1/14-modulos.md)      |
 |   15  | **Manejo de Errores y Excepciones** | Control con `try`, `except`, `finally`. | [Ver](modulo-1/15-errores.md)      |
+
 
 ---
 
