@@ -53,7 +53,7 @@ Si estás comenzando, este repositorio puede servir como **guía práctica para 
 
 | Fase | Contenido Principal | Enlace |
 |------|-------------------|--------|
-| 🐣 **Básico** | Sintaxis, variables, operadores, condicionales, loops y funciones | [Ver Curso →](curso-python/README.md) |
+| 🐣 **Básico** | Sintaxis, variables, operadores, condicionales, loops y funciones | [Ver Curso →](curso-basico-) |
 | 🐍 **Intermedio** | Listas, diccionarios, sets, funciones avanzadas, manejo de archivos y errores | [Ver Curso →](curso-qa/README.md) |
 | 🚀 **Avanzado** | POO, librerías, automatización, APIs, web scraping y proyectos completos | [Ver Curso →](curso-intermedio/README.md) |
 | ⚙️ **Automatización** | Flujos automáticos, Selenium, PyAutoGUI, integración con tareas reales | [Próximamente →](#) |
