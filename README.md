@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1>🎓 <span style="background:linear-gradient(to right, #3776AB, #6CCFF6); -webkit-background-clip:text; color:transparent;">Autocode Lab</span> — Laboratorio Personal</h1>
+<h1>🎓 <span style="background:linear-gradient(to right, #3776AB, #6CCFF6); -webkit-background-clip:text; color:transparent;">AdonAI Lab</span> — Laboratorio Personal</h1>
 <h3>🚀 De Principiante a Experto en Python, Automatización e IA</h3>
 
 <p>
